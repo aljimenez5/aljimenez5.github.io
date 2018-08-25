@@ -14,7 +14,7 @@ git init
 ```
 
 
-**want to check out a repository?**\
+**want to check out a repository?**   
 
 *create a copy of a local repo:*
 ```
@@ -27,7 +27,7 @@ git clone ssh-key
 ```
 
 
-**want to add files to staging?**\
+**want to add files to staging?**   
 
 *add one file:*
 ```
