@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Our Long Wondrous Life in GitHub "
-date:       2018-08-25 02:31:27 +0000
+date:       2018-08-24 22:31:28 -0400
 permalink:  our_long_wondrous_life_in_github
 ---
 
@@ -13,7 +13,9 @@ As we start our careers in Software Engineering, GitHub becomes our second resum
 git init
 ```
 
+
 **want to check out a repository?**
+
 *create a copy of a local repo:*
 ```
 git clone /path/to/repo
@@ -24,7 +26,9 @@ git clone /path/to/repo
 git clone ssh-key
 ```
 
+
 **want to add files to staging?** 
+
 *add one file:*
 ```
 git add filename
@@ -35,15 +39,18 @@ git add filename
 git add *
 ```
 
+
 **want to check the status of your files?**
 ```
 git status
 ```
 
+
 **want to commit changes? (not to the remote repo)**
 ``` 
 git commit -m "message"
 ```
+
 
 **want to push changes? (to the remote repo)**
 ```
