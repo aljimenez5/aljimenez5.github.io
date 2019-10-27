@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Prioritizing while building a Rails App"
-date:       2019-10-27 23:33:59 +0000
+date:       2019-10-27 19:34:00 -0400
 permalink:  prioritizing_while_building_a_rails_app
 ---
 
